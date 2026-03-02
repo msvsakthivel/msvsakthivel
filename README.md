@@ -1,51 +1,65 @@
-# Hi 👋 I'm Sakthivel M
+<h1 align="center">Hi 👋, I'm Sakthivel M</h1>
+<h3 align="center">🚀 Aspiring Cloud & DevOps Engineer from India</h3>
 
-💻 Aspiring Cloud & DevOps Engineer  
-🚀 Passionate about AWS, Docker and CI/CD  
-🎯 Goal: To become a skilled IT professional and build scalable cloud solutions  
+<p align="center">
+  Passionate about building scalable cloud infrastructure and automating deployments using DevOps tools.
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-- ☁️ AWS (EC2, S3, VPC, IAM, Auto Scaling, ALB)
-- 🐳 Docker
-- 🔁 CI/CD
-- 🐧 Linux
-- 🖥️ Git & GitHub
+- 💻 Focused on **Cloud & DevOps Engineering**
+- ☁️ Hands-on experience with AWS 3-Tier Architecture
+- 🔁 Learning and implementing CI/CD pipelines
+- 🎯 Goal: To become a skilled DevOps Engineer and work on real-world cloud projects
+
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud
+- AWS (EC2, S3, VPC, IAM, Auto Scaling, ALB)
+
+### ⚙️ DevOps & Tools
+- Docker  
+- Jenkins  
+- Terraform  
+- CI/CD Pipelines  
+- Git & GitHub  
+
+### 🖥️ Operating System
+- Ubuntu  
+- Linux  
+
+### 🌐 Frontend
+- HTML  
+- CSS  
 
 ---
 
 ## 📌 Projects
 
-### 🔹 AWS 3-Tier Architecture Project
-- Designed scalable architecture using EC2, ALB, Auto Scaling
-- Configured VPC with public & private subnets
-- Implemented security groups and IAM roles
-- Deployed web application successfully
+### 🔹 AWS 3-Tier Architecture Deployment
+- Designed secure VPC with public & private subnets
+- Configured EC2, Auto Scaling and Application Load Balancer
+- Implemented IAM roles and security groups
+- Automated deployment setup
 
 ---
 
-## 📈 My Goal
-To grow as a DevOps Engineer and work in a high-level IT position while continuously learning new cloud technologies.
+## 📈 Currently Learning
+- Advanced Terraform modules  
+- Kubernetes  
+- Advanced CI/CD strategies  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/sakthivelmsv
-- Email: msvsakthivelmsv@gmail.com
+## 🤝 Connect With Me
 
-<!--
-**msvsakthivel/msvsakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 LinkedIn: www.linkedin.com/in/sakthivelmsv
+- 📧 Email: msvsakthivelmsv@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ From Sakthivel M | Keep Learning 🚀
