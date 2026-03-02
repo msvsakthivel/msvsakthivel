@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Sakthivel M
+
+💻 Aspiring Cloud & DevOps Engineer  
+🚀 Passionate about AWS, Docker and CI/CD  
+🎯 Goal: To become a skilled IT professional and build scalable cloud solutions  
+
+---
+
+## 🛠️ Skills & Technologies
+
+- ☁️ AWS (EC2, S3, VPC, IAM, Auto Scaling, ALB)
+- 🐳 Docker
+- 🔁 CI/CD
+- 🐧 Linux
+- 🖥️ Git & GitHub
+
+---
+
+## 📌 Projects
+
+### 🔹 AWS 3-Tier Architecture Project
+- Designed scalable architecture using EC2, ALB, Auto Scaling
+- Configured VPC with public & private subnets
+- Implemented security groups and IAM roles
+- Deployed web application successfully
+
+---
+
+## 📈 My Goal
+To grow as a DevOps Engineer and work in a high-level IT position while continuously learning new cloud technologies.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add your LinkedIn link here)
+- Email: (Add your email here)
 
 <!--
 **msvsakthivel/msvsakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
