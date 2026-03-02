@@ -32,8 +32,8 @@ To grow as a DevOps Engineer and work in a high-level IT position while continuo
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your LinkedIn link here)
-- Email: (Add your email here)
+- LinkedIn: www.linkedin.com/in/sakthivelmsv
+- Email: msvsakthivelmsv@gmail.com
 
 <!--
 **msvsakthivel/msvsakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
